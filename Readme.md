@@ -16,4 +16,5 @@ Give examples
 * etc
 
 
-![fiks oversikt](images/fiks_diagram.png "Fiks oversikt")
+\![fiks oversikt](images/fiks_diagram.png "Fiks oversikt")
+![Metamodell arkitekturlandskap kommune](arkitekturlandskap.svg "Metamodell")
