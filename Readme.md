@@ -15,6 +15,4 @@ Give examples
 * Inspiration
 * etc
 
-
-\![fiks oversikt](images/fiks_diagram.png "Fiks oversikt")
 ![Metamodell arkitekturlandskap kommune](arkitekturlandskap.svg "Metamodell")
