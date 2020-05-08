@@ -17,4 +17,4 @@ Give examples
 
 * punktliste
 
-[Prosesser](Prosesser_lorenskog_kommune.PNG)
+![Prosesser](Prosesser_lorenskog_kommune.PNG "Prosesser hva")
