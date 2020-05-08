@@ -14,3 +14,6 @@ Give examples
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+
+![fiks oversikt](images/fiks_diagram.png "Fiks oversikt")
