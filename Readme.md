@@ -15,4 +15,4 @@ Give examples
 * Inspiration
 * etc
 
-![Metamodell arkitekturlandskap kommune](arkitekturlandskap.svg "Metamodell")
+![Prosesser lørenskog kommune](Prosesser lørenskog kommune.PNG "Prosesser")
