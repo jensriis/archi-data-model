@@ -15,4 +15,4 @@ Give examples
 * Inspiration
 * etc
 
-[Prosesser](Prosesser lørenskog kommune.PNG)
+![Prosesser](Prosesser lørenskog kommune.PNG)
