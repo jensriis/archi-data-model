@@ -9,7 +9,8 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="20"
         y="20"
@@ -25,7 +26,8 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="20"
         y="120"
@@ -41,7 +43,8 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="20"
         y="220"
@@ -57,7 +60,8 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="192"
         y="20"
@@ -73,7 +77,8 @@
       font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
       fontColor="#000000"
       lineColor="#5c5c5c"
-      fillColor="#ffffb5">
+      fillColor="#ffffb5"
+      type="1">
     <bounds
         x="192"
         y="120"
