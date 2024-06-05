@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elevkategori"
+    id="id-0eea6acf978047f89e183540dced7e78"
+    documentation="Fra FINT:&#xD;&#xA;Kategori som et elevforhold befinner seg innenfor&#xD;&#xA;Gyldige verdier kan være:&#xD;&#xA;- heltid&#xD;&#xA;- deltid&#xD;&#xA;- voksen&#xD;&#xA;- privatist&#xD;&#xA;- norsk-utv-i-utlandet&#xD;&#xA;- utenlandsk-utv-i-norge"/>

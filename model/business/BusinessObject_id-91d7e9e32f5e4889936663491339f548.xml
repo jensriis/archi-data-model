@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brevtype"
+    id="id-91d7e9e32f5e4889936663491339f548"
+    documentation="Fra FINT:&#xD;&#xA;Beskriver hvilken prøve lærlingen/lærekandidaten går opp til.&#xD;&#xA;F - Fagbrev&#xD;&#xA;S - Svennebrev&#xD;&#xA;K - Kompetansebevis&#xD;&#xA;B - Praksisbrev"/>

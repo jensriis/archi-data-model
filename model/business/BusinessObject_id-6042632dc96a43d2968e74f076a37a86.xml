@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fakturagrunnlag"
+    id="id-6042632dc96a43d2968e74f076a37a86"
+    documentation="Fra FINT:&#xD;&#xA;Grunnlag for fakturering.&#xD;&#xA;Dokumentasjon som danner grunnlag for å fakturere en kunde. Beskriver hvem som skal utstede faktura og dermed motta betaling, hvem som skal faktureres, og hvilke varer det skal faktureres for."/>

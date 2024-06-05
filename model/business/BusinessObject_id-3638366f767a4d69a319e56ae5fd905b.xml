@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eksamensgruppe"
+    id="id-3638366f767a4d69a319e56ae5fd905b"
+    documentation="Fra FINT:&#xD;&#xA;Gruppering av elever som tar samme eksamen&#xD;&#xA;Underordnet til fag.&#xD;&#xA;&#xD;&#xA;Kan brukes for å:&#xD;&#xA;- Vise forhold mellom eksamensresultat og sensor&#xD;&#xA;- Vise gruppering av elever som tok eksamen sammen&#xD;&#xA;&#xD;&#xA;Det er også mulig å koble resultater av eksamener direkte på klasse Fag.&#xD;&#xA;&#xD;&#xA;Eksamensgrupper har en kode som er sentralt definert av VIGO."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Faggruppe"
+    id="id-87b6df028fb647cd8fd5433d691eae41"
+    documentation="Fra FINT:&#xD;&#xA;Gruppe av elever som mottar undervisning i samme fag.&#xD;&#xA;Undervisningsgrupper har vanligvis en kode, men denne er lokalt definert, og varierer fra skole til skole, og fra fylke til fylke.&#xD;&#xA;Denne grupperingen omhandler faglig organisering av undervisningen.&#xD;&#xA;Se også Undervisningsgruppe."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betalingsstatus"
+    id="id-bc7a0bfd02514bedacfe38303a673f42"
+    documentation="Fra FINT:&#xD;&#xA;Statuser for betaling av eksamen for privatister."/>

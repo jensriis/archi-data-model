@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Faktura"
     id="id-816b2d63-837e-49cd-8be1-bd7828f818b3"
-    documentation="Person"/>
+    documentation="Fra FINT:&#xD;&#xA;Betalingskrav som er utformet og oversendt fra fakturautsteder til fakturamottaker.&#xD;&#xA;Faktura opprettes med basis i ett fakturagrunnlag og ustedes til en eller flere mottakere."/>

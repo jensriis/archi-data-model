@@ -12,8 +12,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="20"
-        y="20"
+        x="192"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -29,8 +29,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="20"
-        y="120"
+        x="49"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -46,8 +46,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="20"
-        y="220"
+        x="49"
+        y="24"
         width="120"
         height="55"/>
     <archimateElement
@@ -63,8 +63,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="192"
-        y="20"
+        x="49"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -81,7 +81,7 @@
       type="1">
     <bounds
         x="192"
-        y="120"
+        y="24"
         width="120"
         height="55"/>
     <archimateElement

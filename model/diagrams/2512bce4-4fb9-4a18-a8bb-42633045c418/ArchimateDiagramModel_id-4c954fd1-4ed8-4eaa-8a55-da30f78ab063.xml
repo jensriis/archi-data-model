@@ -12,8 +12,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="216"
-        y="64"
+        x="72"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -30,7 +30,7 @@
       type="1">
     <bounds
         x="216"
-        y="164"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -46,8 +46,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="216"
-        y="264"
+        x="360"
+        y="194"
         width="120"
         height="55"/>
     <archimateElement
@@ -63,8 +63,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="412"
-        y="64"
+        x="72"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -80,8 +80,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="412"
-        y="164"
+        x="216"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -97,8 +97,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="36"
-        y="64"
+        x="360"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -114,8 +114,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="412"
-        y="264"
+        x="504"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -131,8 +131,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="600"
-        y="64"
+        x="504"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -148,8 +148,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="600"
-        y="180"
+        x="72"
+        y="194"
         width="120"
         height="55"/>
     <archimateElement
@@ -165,8 +165,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="624"
-        y="288"
+        x="216"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
@@ -182,8 +182,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="36"
-        y="180"
+        x="216"
+        y="194"
         width="120"
         height="55"/>
     <archimateElement
@@ -199,8 +199,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="204"
-        y="438"
+        x="360"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -216,8 +216,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="412"
-        y="432"
+        x="504"
+        y="194"
         width="120"
         height="55"/>
     <archimateElement
@@ -233,8 +233,8 @@
       fillColor="#ffffb5"
       type="1">
     <bounds
-        x="612"
-        y="408"
+        x="504"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement

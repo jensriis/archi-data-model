@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vare"
+    id="id-37f6c2fa2e6945368e1982aad4d7f42a"
+    documentation="Fra FINT:&#xD;&#xA;Vare eller tjeneste som kan leveres og faktureres.&#xD;&#xA;Varer leveres i en mengde beskrevet i en enhet, til en nettopris per enhet. Til hver vare er det tilknyttet en kode som angir sats for merverdiavgift.&#xD;&#xA;Konteringen som varen har i økonomisystemet kan også angis."/>

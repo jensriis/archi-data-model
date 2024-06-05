@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elev"
+    id="id-902b526deb76499688451fa4c3261443"
+    documentation="Fra FINT:&#xD;&#xA;Informasjon om en person som mottar undervisning.&#xD;&#xA;Beskriver informasjon relatert til undervisning for en Person.&#xD;&#xA;&#xD;&#xA;Tilsvarende finnes for ansatte: Personalressurs."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bevistype"
+    id="id-bc4781a047fa46868d35a2d419606638"
+    documentation="Fra FINT:&#xD;&#xA;Viser hvilken bevistype eleven har fått på opplæringen.&#xD;&#xA;KB - Kompetansebevis&#xD;&#xA;VM - Vitnemål"/>

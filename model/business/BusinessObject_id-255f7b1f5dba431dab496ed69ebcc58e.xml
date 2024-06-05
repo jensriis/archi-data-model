@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elevforhold"
+    id="id-255f7b1f5dba431dab496ed69ebcc58e"
+    documentation="Fra FINT:&#xD;&#xA;Elevens forskjellige utdanningsforhold&#xD;&#xA;En elev kan være i elevforhold med status privatist og deltid samtidig. Eller en elev kan ha flere elevforhold på flere forskjellige skoler."/>

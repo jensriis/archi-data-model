@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fagstatus"
+    id="id-489eba13782444f9a7bd32532d0d4074"
+    documentation="Fra FINT:&#xD;&#xA;Elevens, privatistens eller kandidatens (voksne) status på et gitt fag.&#xD;&#xA;Fagstatus er en kode for undervisningen og/eller grunnlaget for karakteren. Den gir informasjon om hvordan det enkelte faget er gjennomført eller evt. ikke gjennomført.&#xD;&#xA;&#xD;&#xA;Eksempler&#xD;&#xA;E - Elev&#xD;&#xA;F - Fritatt"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fakturautsteder"
+    id="id-ea5db861966c4276b6ac8387ed23236c"
+    documentation="Fra FINT:&#xD;&#xA;Enhet som utformer og oversender faktura og mottar betaling.&#xD;&#xA;Enhet som etter Regnskapsloven er pliktig å arkivere dokumentasjon for faktura."/>

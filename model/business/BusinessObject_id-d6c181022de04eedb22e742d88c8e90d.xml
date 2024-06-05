@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elevtilrettelegging"
+    id="id-d6c181022de04eedb22e742d88c8e90d"
+    documentation="Fra FINT:&#xD;&#xA;Tilrettelegging en elev har på eksamen.&#xD;&#xA;Det skal her oppgis enten fag eller eksamensform."/>
