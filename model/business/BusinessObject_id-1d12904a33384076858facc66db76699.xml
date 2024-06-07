@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Valuta"
+    id="id-1d12904a33384076858facc66db76699"
+    documentation="Fra FINT:&#xD;&#xA;Valutakodene for offisielle valutaer.&#xD;&#xA;I henhold til ISO 4217"/>

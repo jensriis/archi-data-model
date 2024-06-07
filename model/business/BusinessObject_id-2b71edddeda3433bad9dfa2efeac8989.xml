@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personalressurskategori"
+    id="id-2b71edddeda3433bad9dfa2efeac8989"
+    documentation="Fra FINT:&#xD;&#xA;Ansattform til et arbeidsforhold&#xD;&#xA;Alternativ navn:&#xD;&#xA;&#xD;&#xA;Ansatt (er ikke datatype, men kodeverk)&#xD;&#xA;Ansattkategori&#xD;&#xA;Ansattformer&quot;&#xD;&#xA;Eksempel&#xD;&#xA;Eksempel fra Visma HR - Kategori:&#xD;&#xA;Kode&#x9;Beskrivelse&#xD;&#xA;F&#x9;Fast&#xD;&#xA;M&#x9;Midlertidig&#xD;&#xA;O&#x9;Oppdragstaker&#xD;&#xA;P&#x9;Politiker&#xD;&#xA;S&#x9;Sluttet&#xD;&#xA;Eksempel fra Agresso - Ressurstype:&#xD;&#xA;Kode&#x9;Beskrivelse&#xD;&#xA;1&#x9;Ansatt - kommunal&#xD;&#xA;10&#x9;Lærling/Ung arb.taker&#xD;&#xA;2&#x9;Ansatt - undervisning&#xD;&#xA;3&#x9;Honorar/godtgjørelse&#xD;&#xA;4&#x9;Sluttet&#xD;&#xA;5&#x9;Nyansatt&#xD;&#xA;6&#x9;Ikke ansatt - kun bruker&#xD;&#xA;7&#x9;Politikere&#xD;&#xA;8&#x9;Selvstendig næringsdrivende"/>

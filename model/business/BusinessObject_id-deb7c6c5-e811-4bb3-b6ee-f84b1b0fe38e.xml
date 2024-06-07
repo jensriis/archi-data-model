@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kjønn"
     id="id-deb7c6c5-e811-4bb3-b6ee-f84b1b0fe38e"
-    documentation="Person"/>
+    documentation="Fra FINT:&#xD;&#xA;Liste over verdier for kjønn basert på ISO/IEC 5218.&#xD;&#xA;&#xD;&#xA;Når vi i daglig tale prater om kjønn presiserer vi sjelden hva vi mener. Avhengig av sammenheng kan vi mene enten biologisk, sosialt, mentalt eller juridisk kjønn. Kjønn kan med andre ord betraktes som et samlebegrep. Kilde: llh.no&#xD;&#xA;&#xD;&#xA;Eksempler&#xD;&#xA;0 = uvisst (not known)&#xD;&#xA;1 = mann (male)&#xD;&#xA;2 = kvinne (female)&#xD;&#xA;9 = gjelder ikke (not applicable)"/>

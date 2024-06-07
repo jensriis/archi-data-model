@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personopplysning"
+    id="id-4f0eba4cab464e039c7241af7c5a3c1d"
+    documentation="Fra FINT:&#xD;&#xA;Opplysninger og vurderinger som kan knyttes til enkeltpersoner.&#xD;&#xA;Typiske personopplysninger er navn, adresse, telefonnummer, e-post og fødselsnummer. Et bilde regnes som en personopplysning dersom personer kan gjenkjennes."/>

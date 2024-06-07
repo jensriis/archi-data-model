@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rettighet"
+    id="id-726e6c072c084b4784d3a689fbebf107"
+    documentation="Fra FINT:&#xD;&#xA;Navngir en rettighet. Hva rettigheten gir tilgang til er systemspesifikt."/>

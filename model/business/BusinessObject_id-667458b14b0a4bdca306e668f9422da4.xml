@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Språk"
+    id="id-667458b14b0a4bdca306e668f9422da4"
+    documentation="Fra FINT:&#xD;&#xA;Liste over verdier for språk (2 bokstav)&#xD;&#xA;Liste over alle språk etter ISO 639-1 standard (2 bokstav)&#xD;&#xA;&#xD;&#xA;Eksempler&#xD;&#xA;NO, NB, NN, DA, etc."/>

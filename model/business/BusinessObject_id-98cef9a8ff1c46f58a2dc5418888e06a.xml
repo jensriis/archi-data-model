@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persongruppe"
+    id="id-98cef9a8ff1c46f58a2dc5418888e06a"
+    documentation="Fra FINT:&#xD;&#xA;Gruppe av personer som ikke handler om undervisning. Dette kan f.eks. være grupper av elever som skal faktureres."/>

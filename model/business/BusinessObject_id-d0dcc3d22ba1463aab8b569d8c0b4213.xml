@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Karakterskala"
+    id="id-d0dcc3d22ba1463aab8b569d8c0b4213"
+    documentation="Fra FINT:&#xD;&#xA;Gruppering av karakterer etter skala (bokstav, orden osv).&#xD;&#xA;Eksempler:&#xD;&#xA;Bokstav – bokstavkarakterer&#xD;&#xA;Tall – tallkarakterer&#xD;&#xA;Binær – Bestått/Ikke-bestått&#xD;&#xA;Prosent – prosentpoeng."/>

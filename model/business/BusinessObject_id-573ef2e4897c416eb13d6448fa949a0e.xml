@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fullmakt"
+    id="id-573ef2e4897c416eb13d6448fa949a0e"
+    documentation="Fra FINT:&#xD;&#xA;Fullmakt til å gjøre handlinger i forhold til en gitt Rolle.&#xD;&#xA;Fullmakter innehas av fysiske eller juridiske personer, og er knyttet til kontodimensjon eller organisasjonselement. Fullmakter er delegert til personer, disse benevnes som fullmektige.&#xD;&#xA;&#xD;&#xA;Fullmektige kan ha stedfortreder. Stedfortrederen kan utøve den samme fullmakten som den fullmektige.&#xD;&#xA;&#xD;&#xA;Fullmakter beskrives i delegasjonsreglementet for organisasjonen. For fylkeskommuner er dette et reglement besluttet av Fylkestinget og videre delegert av Fylkesrådmannen.&#xD;&#xA;&#xD;&#xA;Dersom fullmakt har relasjon til mer enn en kontodimensjon (og organisasjonselement) er det å regne som en kombinasjonsfullmakt.&#xD;&#xA;&#xD;&#xA;Eksempler&#xD;&#xA;Rektor ved Eidsvoll VGS har anvisningsfullmakt for ansvar 241."/>

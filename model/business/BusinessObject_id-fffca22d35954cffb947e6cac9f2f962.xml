@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Undervisningsgruppe"
+    id="id-fffca22d35954cffb947e6cac9f2f962"
+    documentation="Fra FINT:&#xD;&#xA;Gruppering av elever som mottar undervisning.&#xD;&#xA;Elever i forskjellige undervisningsgrupper kan ta samme faget. Flere fag kan undervises i samme undervisningsgruppe. Det kan være flere lærere i en undervisningsgruppe.&#xD;&#xA;&#xD;&#xA;Undervisningsgrupper har vanligvis en kode, men denne er lokalt definert, og varierer fra skole til skole, og fra fylke til fylke.&#xD;&#xA;&#xD;&#xA;Denne grupperingen omhandler administrering av undervisningen."/>

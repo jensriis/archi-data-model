@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ansvar"
+    id="id-d753e7b2bead4846a21d361a0d72ff80"
+    documentation="Fra FINT:&#xD;&#xA;Kodeverk som er en del av kontostrengen som beskriver hvem som har ansvaret for en utgift eller en inntekt&#xD;&#xA;Ansvar viser hvordan ansvaret i organisasjonen er bygd opp i samsvar med fylkeskommunens anvisningsmyndighet.&#xD;&#xA;&#xD;&#xA;Alternative navn: Kostsenter, Koststed."/>

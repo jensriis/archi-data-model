@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Varseltype"
+    id="id-a6c2121fadea420f930dec0d472e16c6"
+    documentation="Fra FINT:&#xD;&#xA;Viser hvilken type et varsel er.&#xD;&#xA;Eksempel&#xD;&#xA;Fravær&#xD;&#xA;Orden&#xD;&#xA;Atferd&#xD;&#xA;Manglende vurderingsgrunnlag i fag"/>

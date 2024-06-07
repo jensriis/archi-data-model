@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skole"
+    id="id-ddfbd1c6ab8c4f63a13fb43e9210ae5d"
+    documentation="Fra FINT:&#xD;&#xA;Organisasjonsenhet som gjennomfører utdanning.&#xD;&#xA;Typisk er dette en videregående skole, men det kan også være eksamenskontor eller andre skolerelevante enheter.&#xD;&#xA;&#xD;&#xA;Inneholder utdanningsspesifikk informasjon om en organisasjonsenhet.&#xD;&#xA;&#xD;&#xA;Eksempel&#xD;&#xA;Videregående skole&#xD;&#xA;SMI-skole&#xD;&#xA;Fagskole&#xD;&#xA;IB-skole&#xD;&#xA;Eksamenskontor&#xD;&#xA;Opplæringskontor&#xD;&#xA;Ressurssenter&#xD;&#xA;Fengselsundervisning"/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personalressurs"
+    id="id-0364b8aedf244e2e9ef6c47c94a3afd3"
+    documentation="Fra FINT:&#xD;&#xA;Arbeidstaker eller oppdragstaker i organisasjonen&#xD;&#xA;Personalressurs er personer som leverer tjenester i form av å være ansatt. Personalressursen kan også være en person fra vikarbyrå, eller et firma som bekler et arbeidsforhold gjennom en kontrakt/avtale. Registrert i HR-systemet.&#xD;&#xA;&#xD;&#xA;Eksempler&#xD;&#xA;ordinære ansatte i faste og midlertidige stillinger&#xD;&#xA;oppdragstakere:&#xD;&#xA;- politikere&#xD;&#xA;- ressurser med timelønn&#xD;&#xA;- sensorer&#xD;&#xA;- eksamensvakt&#xD;&#xA;- hospitant&#xD;&#xA;Inneholder i utgangspunktet ikke leverandørrepresenanter (ekstern vikar, foredragsholdere, konsulenter)."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OtStatus"
+    id="id-05d267f9155345e9951ba01525e596b4"
+    documentation="Fra FINT:&#xD;&#xA;Statuskoder angir hva som er ungdommens hovedaktivitet&#xD;&#xA;Eksempel:&#xD;&#xA;OTAR – I arbeid&#xD;&#xA;OTMI – Er i militæret&#xD;&#xA;OTAP – Arbeidspraksis eller annet tiltak i regi av NAV&#xD;&#xA;OTUK – Ukjent aktivitet"/>

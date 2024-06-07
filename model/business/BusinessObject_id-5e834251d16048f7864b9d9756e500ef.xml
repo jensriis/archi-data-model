@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Art"
+    id="id-5e834251d16048f7864b9d9756e500ef"
+    documentation="Fra FINT:&#xD;&#xA;Kodeverk som er en del av kontostrengen som beskriver hva slags inntekter og utgifter det gjelder.&#xD;&#xA;Alternativt navn: Konto&#xD;&#xA;&#xD;&#xA;Art er det første og såkalt styrende begrepet i kontostrengen. Angir om det er drift, investering eller balanse."/>

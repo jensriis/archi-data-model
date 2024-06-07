@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fravær"
     id="id-9ecaaa5f-8264-400d-8c13-e03063094ade"
-    documentation="Person"/>
+    documentation="Fra FINT:&#xD;&#xA;Fravær fra et arbeidsforhold.&#xD;&#xA;Representerer fravær fra et gitt arbeidsforhold. Fraværet har en type og en varighet, og kan være helt eller delvis."/>

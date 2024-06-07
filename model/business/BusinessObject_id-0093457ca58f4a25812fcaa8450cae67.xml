@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fraværstype"
+    id="id-0093457ca58f4a25812fcaa8450cae67"
+    documentation="Fra FINT:&#xD;&#xA;Typer fravær.&#xD;&#xA;&#xD;&#xA;Inneholder informasjon om hva slags type fravær det er som registreres, eksempelvis ferie, permisjon eller sykdom.&#xD;&#xA;&#xD;&#xA;Typen fravær brukes av HRM-systemet til å bestemme om fraværet har lønnskonsekvens, hvilken lønnsart som i så fall skal brukes, og om den er knyttet til en permisjon.&#xD;&#xA;&#xD;&#xA;Eksempel&#xD;&#xA;Egenmelding&#xD;&#xA;Syk med legemelding&#xD;&#xA;Barn og/ eller barnepassers sykdom&#xD;&#xA;Ferie med lønn&#xD;&#xA;Velferdspermisjon med lønn&#xD;&#xA;Utdanningspermisjon med lønn&#xD;&#xA;Utdanningspermisjon uten lønn&#xD;&#xA;Foreldrepermisjon 100%&#xD;&#xA;Foreldrepermisjon 80 %&#xD;&#xA;Avspasering&#xD;&#xA;Møter&#xD;&#xA;Kurs"/>

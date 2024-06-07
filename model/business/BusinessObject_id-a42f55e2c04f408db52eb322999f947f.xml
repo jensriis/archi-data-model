@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skoleår"
+    id="id-a42f55e2c04f408db52eb322999f947f"
+    documentation="Fra FINT:&#xD;&#xA;Del av året da skoler har undervisning (og ikke ferie).&#xD;&#xA;Et skoleår varer som hovedregel fra august til juni."/>

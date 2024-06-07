@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diverse"
+    id="id-9698fb180a394e2ab3f9ffc30252135e"
+    documentation="Fra FINT:&#xD;&#xA;Diverser er en del av kontostrengen og benyttes som et supplement til de spesifikasjoner som framkommer i de øvrige dimensjonene.&#xD;&#xA;Felter&#xD;&#xA;Felt&#x9;Type&#x9;Multiplisitet&#x9;Skrivbar&#x9;Beskrivelse&#xD;&#xA;gyldighetsperiode&#x9;Periode&#x9;0..1&#x9;&#x9;Angir gyldighetsperioden for et begrep/kode&#xD;&#xA;kode&#x9;string&#x9;1&#x9;&#x9;Verdi som identifiserer begrepet&#xD;&#xA;navn&#x9;string&#x9;1&#x9;&#x9;Hovednavn for begrepet&#xD;&#xA;passiv&#x9;boolean&#x9;0..1&#x9;&#x9;Angir at koden er passiv, og ikke kan velges.&#xD;&#xA;systemId&#x9;Identifikator&#x9;1&#x9;&#x9;Intern identifikator som brukes enten i kildesystemet eller i kildestandarden (for ISO, KS og lignende standarder)&#xD;&#xA;Relasjoner&#xD;&#xA;Felt&#x9;Type&#x9;Multiplisitet&#x9;Beskrivelse&#xD;&#xA;fullmakt&#x9;Fullmakt&#x9;0..*&#x9;UTGÅR: Relasjonen til fullmakt ble fjernet i v3.8.0"/>

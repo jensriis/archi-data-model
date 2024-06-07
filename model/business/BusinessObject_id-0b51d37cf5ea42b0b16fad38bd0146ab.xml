@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="JournalStatus"
+    id="id-0b51d37cf5ea42b0b16fad38bd0146ab"
+    documentation="Fra FINT:&#xD;&#xA;Status til journalposten, dvs. om dokumentet er registrert, under behandling eller endelig arkivert.&#xD;&#xA;Noark 5 versjon 5.0 metadatakatalog - nr. M053"/>

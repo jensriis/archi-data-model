@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fastlønn"
+    id="id-9e8d14fe18084b5e8ab60062bb5dcd38"
+    documentation="Fra FINT:&#xD;&#xA;Informasjon om fast lønnsbeskjeftigelse.&#xD;&#xA;Inneholder beskjeftigelse av den ansattes lønnsprosent.&#xD;&#xA;&#xD;&#xA;Summen av prosentene på beskjeftigelsene skal være lønnsprosent for en fullt dekket stilling.&#xD;&#xA;&#xD;&#xA;Dersom beskjeftigelsene ikke fyller lønnsprosenten har arbeidsforholdet teknisk undertid.&#xD;&#xA;&#xD;&#xA;I motsatt fall har arbeidsforholdet overtid.&#xD;&#xA;&#xD;&#xA;Lovlige endringer&#xD;&#xA;&#xD;&#xA;Opprettelse av ny fastlønn&#xD;&#xA;- periode angir periode som beskjeftigelsen skal gjelde for.&#xD;&#xA;- Periode uten slutt betyr at beskjeftigelsen gjelder inntil videre.&#xD;&#xA;Endring av eksisterende fastlønn&#xD;&#xA;- Kun endring av slutt på periode er lovlig.&#xD;&#xA;Sletting av eksisterende fastlønn&#xD;&#xA;- Ikke tillatt."/>

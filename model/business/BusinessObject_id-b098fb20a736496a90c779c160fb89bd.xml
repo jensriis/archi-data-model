@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rolle"
+    id="id-b098fb20a736496a90c779c160fb89bd"
+    documentation="Fra FINT:&#xD;&#xA;Rettighet eller type fullmakt.&#xD;&#xA;De vanligste rollene er:&#xD;&#xA;&#xD;&#xA;Attestant&#xD;&#xA;Anviser&#xD;&#xA;Bestiller&#xD;&#xA;Kontering&#xD;&#xA;&#xD;&#xA;Rollen kan være arkivressurs:&#xD;&#xA;Noark 5 versjon 5.0 metadatakatalog - nr. M581"/>

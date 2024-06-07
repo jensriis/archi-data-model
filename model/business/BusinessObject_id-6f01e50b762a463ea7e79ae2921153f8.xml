@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Undervisningsforhold"
+    id="id-6f01e50b762a463ea7e79ae2921153f8"
+    documentation="Fra FINT:&#xD;&#xA;Undervisningsforhold til alle med en pedagogisk funksjon&#xD;&#xA;Alle med en pedagogisk funksjon på skolen kan ha et undervisningsforhold.&#xD;&#xA;&#xD;&#xA;Eksempel&#xD;&#xA;Dette kan for eksempel være lærerens undervisningsforhold til skolen. Underviser en lærer på to skoler, vil det være naturlig å ha to undervisningsforhold."/>

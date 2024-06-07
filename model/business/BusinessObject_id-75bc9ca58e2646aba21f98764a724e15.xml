@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lønnsart"
+    id="id-75bc9ca58e2646aba21f98764a724e15"
+    documentation="Fra FINT:&#xD;&#xA;Type ytelse.&#xD;&#xA;Lønnsart brukes av HRM-systemer for å indikere hvordan en ytelse skal behandles.&#xD;&#xA;&#xD;&#xA;Den inneholder også knytning til hvordan ytelsen skal rapporteres på A-meldingen.&#xD;&#xA;&#xD;&#xA;Tidligere hadde lønnsart knytning til LTO-kode og LT-kode."/>

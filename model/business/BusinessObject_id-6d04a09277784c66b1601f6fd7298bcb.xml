@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AdministrativEnhet"
+    id="id-6d04a09277784c66b1601f6fd7298bcb"
+    documentation="Fra FINT:&#xD;&#xA;Navn på avdeling, kontor eller annen administrativ enhet som har ansvaret for saksbehandlingen.&#xD;&#xA;Noark 5 versjon 5.0 standard - kap. 4.2&#xD;&#xA;Noark 5 versjon 5.0 metadatakatalog - nr. M086"/>

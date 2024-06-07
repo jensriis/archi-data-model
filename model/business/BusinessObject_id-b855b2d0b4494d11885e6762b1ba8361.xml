@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Saksmappetype"
+    id="id-b855b2d0b4494d11885e6762b1ba8361"
+    documentation="Fra FINT:&#xD;&#xA;Saksmappetyper brukes for å differensiere innhold og etter hvilke rutiner saker skal behandles.&#xD;&#xA;Dette er ikke en del av Noark standarden.&#xD;&#xA;&#xD;&#xA;Synonymer&#xD;&#xA;Sakstype (P360)&#xD;&#xA;Eksempel&#xD;&#xA;Sak&#xD;&#xA;PE&#xD;&#xA;TS"/>

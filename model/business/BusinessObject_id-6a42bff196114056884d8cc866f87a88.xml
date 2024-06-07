@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisasjonselement"
+    id="id-6a42bff196114056884d8cc866f87a88"
+    documentation="Fra FINT:&#xD;&#xA;Et element i organisasjonsstrukturen&#xD;&#xA;Innslagspunkt i organisasjonsstrukturen. Organisasjonselement er en avdeling/seksjon/enhet, som inneholder relasjon til leder.&#xD;&#xA;&#xD;&#xA;Flere organisasjonselement bygger hierarki med relasjon til orverordnet organisasjonselement, som former organisasjonsstrukturen.&#xD;&#xA;&#xD;&#xA;Eksempler&#xD;&#xA;OrgKode&#x9;OrgId&#x9;Beskrivelse&#x9;overordenetId&#xD;&#xA;F12&#x9;25&#x9;OPPL Opplæringsavdelingen&#x9;0&#xD;&#xA;F12.10&#x9;28&#x9;OPPL Videregående opplæring&#x9;25&#xD;&#xA;F12.10.44&#x9;39&#x9;ASKI Askim vgs&#x9;28&#xD;&#xA;F12.10.44.50.15&#x9;52&#x9;ASKI Internasjonalisering og eksamen&#x9;39&#xD;&#xA;F12.10.44.50.15&#x9;55&#x9;ASKI FG Idrett&#x9;52&#xD;&#xA;F12.10.44.10&#x9;70&#x9;ASKI Personal- og renholdsstab&#x9;39"/>

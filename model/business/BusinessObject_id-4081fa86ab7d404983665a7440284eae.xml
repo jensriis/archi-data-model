@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentfil"
+    id="id-4081fa86ab7d404983665a7440284eae"
+    documentation="Fra FINT:&#xD;&#xA;Dokumentfila inneholder selve dokumentet. Dersom dokumentet er arkivert i flere versjoner, må vi ha et dokumentobjekt og en dokumentfil for hver versjon.&#xD;&#xA;Noark 5 versjon 5.0 standard - kap. 2.7"/>

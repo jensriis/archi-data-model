@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Halvårsfagvurdering"
+    id="id-bd0956787b064c82ab4af422e3b624bb"
+    documentation="Fra FINT:&#xD;&#xA;Karakterer og andre vurderingsuttrykk.&#xD;&#xA;Halvårsvurdering gis for deltakelse av en elev i en gruppe.&#xD;&#xA;&#xD;&#xA;Vurdering i fag skal ha relasjon til den Undervisningsgruppe som vurderingen er foretatt i. Det er også mulig å sette relasjon direkte til angjeldende fag."/>

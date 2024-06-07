@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identitet"
+    id="id-315cf6dc36fc4eea9422ef7fe7e08fa8"
+    documentation="Fra FINT:&#xD;&#xA;Identitet identifiserer innehaver av rettigheter i relasjonen til organisasjonen.&#xD;&#xA;Kilden for denne type informasjon vil typisk være identitetsforvaltningssystemet."/>

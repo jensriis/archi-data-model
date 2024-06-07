@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tjeneste"
+    id="id-3a0b996a767c454c917797e70154ee8a"
+    documentation="Fra FINT:&#xD;&#xA;Tjeneste eller system som behandler personopplysninger.&#xD;&#xA;Tjeneste eller system som behandler personopplysninger må ha et behandlingsgrunnlag og formål for behandling av hver enkelt personopplysning."/>

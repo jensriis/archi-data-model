@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosjektart"
+    id="id-dbd6a196959c445d84d1ab48e26f34e0"
+    documentation="Fra FINT:&#xD;&#xA;Prosjektart er et element i enten en prosjektnedbrytningsstruktur eller en arbeidsnedbrytningsstruktur.&#xD;&#xA;Prosjektnedbrytningsstruktur (PNS)&#xD;&#xA;Engelsk: Project Breakdown Structure (PBS)&#xD;&#xA;&#xD;&#xA;Det fokuseres på delprodukter:&#xD;&#xA;&#xD;&#xA;Delprodukt&#xD;&#xA;Delprosjekt&#xD;&#xA;Arbeidsnedbrytningsstruktur&#xD;&#xA;Engelsk: Work Breakdown Structure (WBS)&#xD;&#xA;&#xD;&#xA;Det fokuseres på arbeidsoppgaver:&#xD;&#xA;&#xD;&#xA;Arbeidspakke&#xD;&#xA;Oppgave&#xD;&#xA;Deloppgave"/>

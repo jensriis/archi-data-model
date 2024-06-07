@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Karakterverdi"
+    id="id-0d5ed9cc52b54db78cc683614da84913"
+    documentation="Fra FINT:&#xD;&#xA;Karakterer, målestokk for vurdering av elevers faglige standpunkt, prøve- eller eksamensprestasjoner&#xD;&#xA;De enkelte karakterer, som til sammen danner en karakterskala, blir betegnet med tall eller andre symboler.&#xD;&#xA;&#xD;&#xA;Den relaterte skalaen må refereres fra selve verdi.&#xD;&#xA;&#xD;&#xA;Eksempel&#xD;&#xA;6 - Seks&#xD;&#xA;IM - Ikke møtt&#xD;&#xA;GK - Godkjent&#xD;&#xA;R - Realkompetanse"/>

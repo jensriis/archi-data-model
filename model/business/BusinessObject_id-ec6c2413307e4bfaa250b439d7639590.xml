@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Underveisfagvurdering"
+    id="id-ec6c2413307e4bfaa250b439d7639590"
+    documentation="Fra FINT:&#xD;&#xA;Karakterer og andre vurderingsuttrykk.&#xD;&#xA;Underveisvurdering gis for deltakelse av en elev i en gruppe.&#xD;&#xA;&#xD;&#xA;Vurdering i fag skal ha relasjon til den Undervisningsgruppe som vurderingen er foretatt i. Det er også mulig å sette relasjon direkte til angjeldende fag."/>

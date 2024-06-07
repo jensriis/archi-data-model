@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vitnemålsmerknad"
+    id="id-46b64af0da864efa830496161761845a"
+    documentation="Fra FINT:&#xD;&#xA;En vitnemålsmerknad har en eller flere av følgende funksjoner:&#xD;&#xA;gir opplysninger som gjelder opplæringen generelt eller som gjelder hele vitnemålet/kompetansebeviset&#xD;&#xA;henviser til vedlegg som gir slike opplysninger&#xD;&#xA;utdyper en fagmerknad&#xD;&#xA;Det kan bare føres vitnemålsmerknader som er gitt av Utdanningsdirektoratet."/>

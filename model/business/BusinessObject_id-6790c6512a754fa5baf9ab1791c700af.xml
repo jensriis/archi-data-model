@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sluttfagvurdering"
+    id="id-6790c6512a754fa5baf9ab1791c700af"
+    documentation="Fra FINT:&#xD;&#xA;Karakterer og andre vurderingsuttrykk.&#xD;&#xA;Sluttvurdering (Standpunktkarakter) gis for deltakelse av en elev i en gruppe.&#xD;&#xA;&#xD;&#xA;Vurderingen skal ha en relasjon til det angjeldende faget. Det er også mulig å sette en relasjon til den eksamensgruppen som vurderingen er foretatt i."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkivdel"
+    id="id-b625e054a1fc4c1fa697c37e634c39f6"
+    documentation="Fra FINT:&#xD;&#xA;En vilkårlig definert del av et arkiv. Et arkiv skal kunne deles opp i arkivdeler for å gruppere arkivet etter overordnede kriterier.&#xD;&#xA;Noark 5 versjon 5.0 standard - kap. 2.3"/>

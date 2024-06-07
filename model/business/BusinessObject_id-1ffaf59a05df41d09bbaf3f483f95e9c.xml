@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arbeidsforholdstype"
+    id="id-1ffaf59a05df41d09bbaf3f483f95e9c"
+    documentation="Fra FINT:&#xD;&#xA;Viser hvilket behov hos arbeidsgiver som dekkes av arbeidsforholdet&#xD;&#xA;Viser hvilket behov hos arbeidsgiver som dekkes av arbeidsforholdet&#xD;&#xA;&#xD;&#xA;Alternative navn:&#xD;&#xA;&#xD;&#xA;Stillingstype&#xD;&#xA;Stillingskategori&#xD;&#xA;Ansattforholdkode&#xD;&#xA;Eksempel&#xD;&#xA;Kode&#x9;Beskrivelse&#xD;&#xA;A&#x9;Fast&#xD;&#xA;B&#x9;Timelønnet&#xD;&#xA;C&#x9;Lærlinger&#xD;&#xA;D&#x9;Folkevalgt/politiker&#xD;&#xA;E&#x9;Midlertidig&#xD;&#xA;...&#x9;...&#xD;&#xA;Z&#x9;Annet"/>

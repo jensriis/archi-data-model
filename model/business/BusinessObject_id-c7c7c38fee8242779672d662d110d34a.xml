@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stillingskode"
+    id="id-c7c7c38fee8242779672d662d110d34a"
+    documentation="Fra FINT:&#xD;&#xA;Et felles kodeverk for stillinger&#xD;&#xA;I det fylkeskommunale lønnssystemet har alle stillinger en stillingskode og en stillingsbetegnelse (for eksempel 7026 for bibliotekar eller 7076 for hjelpepleier). Stillingskoden kan angi noe om stillingens innhold og lønnsnivå."/>

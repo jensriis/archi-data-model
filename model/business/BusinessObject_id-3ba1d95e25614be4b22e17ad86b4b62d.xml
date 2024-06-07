@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fasttillegg"
+    id="id-3ba1d95e25614be4b22e17ad86b4b62d"
+    documentation="Fra FINT:&#xD;&#xA;Faste tillegg til utbetaling.&#xD;&#xA;Lovlige endringer&#xD;&#xA;Opprettelse av nytt fasttillegg&#xD;&#xA;- periode angir periode som tillegget skal gjelde for.&#xD;&#xA;- Periode uten slutt betyr at tillegget gjelder inntil videre.&#xD;&#xA;Endring av eksisterende fasttillegg&#xD;&#xA;- Kun endring av slutt på periode er lovlig.&#xD;&#xA;- Setting av slutt indikerer når tillegget ikke lenger skal utbetales&#xD;&#xA;Sletting av eksisterende fasttillegg&#xD;&#xA;I- kke tillatt."/>

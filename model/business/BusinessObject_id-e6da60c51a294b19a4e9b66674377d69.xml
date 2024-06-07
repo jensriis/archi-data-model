@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skoleeiertype"
+    id="id-e6da60c51a294b19a4e9b66674377d69"
+    documentation="Fra FINT:&#xD;&#xA;Angir hvem er det som eier skole&#xD;&#xA;Eksempler&#xD;&#xA;1 = Fylke 2 = Stat 3 = Kommune 4 = Privat"/>
