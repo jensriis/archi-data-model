@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokument konsument"
+    id="id-1199545d8449478799b3800581aaf9fa"
+    documentation="Typisk som en del av et fagsystem, f.eks. EPJsystem. Funksjonalitet i Dokumentkonsumenten dekker å kunne søke etter dokumenter i dokumentregisteret og hente frem dokumenter fra dokumentlageret. "/>

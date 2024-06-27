@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentlager"
+    id="id-f9588975adbb4491aa73a8adc2281f83"
+    documentation="En fellestjeneste i en dokumentdelingsløsning hvor dokumentene er lagret. Tilbyr henting og publisering av dokumenter. Man kan i en dokumentdelingsløsning ha flere dokumentlagre. Dette medfører at dokumentkonsumentene må kunne hente dokumenter fra flere dokumentlagre. Typisk eksempel på bruk av flere dokumentlagre er når dokumentene er i binært format og meget store, og derfor uhensiktsmessige å flytte ut fra kildesystemet. "/>

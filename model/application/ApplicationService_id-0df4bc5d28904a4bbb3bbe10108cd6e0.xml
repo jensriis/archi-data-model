@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dokumentregister"
+    id="id-0df4bc5d28904a4bbb3bbe10108cd6e0"
+    documentation="En fellestjeneste i en dokumentdelingsløsning som inneholder alle søkbare metadata om dokumentene inkludert en peker til dokumentlageret hvor dokumentet er lagret. Registeret tilbyr søk til alle konsumerende virksomheter. I tillegg tilbyr det et grensesnitt for registering av metadata om et dokument. Man har normalt kun ett register i en dokumentdelingsløsning. "/>
